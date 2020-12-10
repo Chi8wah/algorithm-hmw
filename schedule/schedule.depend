@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607597990 source:d:\codes\algorithm-hmw\schedule\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
