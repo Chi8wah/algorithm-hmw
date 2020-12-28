@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609175530 source:d:\codes\algorithm-hmw\workset\main.c
+	<stdio.h>
+	<stdlib.h>
+
