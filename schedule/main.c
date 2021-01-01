@@ -77,4 +77,6 @@ int main()
             printf("%5d", b[i][j]);
         printf("\n");
     }
+    fflush(stdin);
+    getchar();
 }

@@ -67,5 +67,7 @@ int main()
         printf("%d ",c[i]);
     }
     printf("\n");
+    fflush(stdin);
+    getchar();
     return 0;
 }

@@ -76,5 +76,7 @@ int main()
         k++;
     }
     printf("\n");
+    fflush(stdin);
+    getchar();
     return 0;
 }

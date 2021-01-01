@@ -70,4 +70,6 @@ int main()
     fill(0,0,n-1,n-1,x-1,y-1);
     a[x-1][y-1]=5;
     printA(n);
+    fflush(stdin);
+    getchar();
 }
